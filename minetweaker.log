@@ -1,0 +1,296 @@
+ERROR: system: AutoSpawner is already defined in that package
+ERROR: system: AutoSpawner is already defined in that package
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command tooltips
+INFO: Adding minetweaker command entities
+INFO: Adding minetweaker command gases
+INFO: Adding minetweaker command research
+INFO: Adding minetweaker command aspectList
+INFO: Adding minetweaker command materials
+INFO: Adding minetweaker command lexiconCategories
+INFO: Adding minetweaker command lexiconPages
+INFO: Adding minetweaker command botaniaBrews
+INFO: Adding minetweaker command lexiconKnowledgeTypes
+INFO: Adding minetweaker command botaniaOrchid
+INFO: Adding minetweaker command chiselGroups
+INFO: Adding minetweaker command chiselVariations
+INFO: Adding minetweaker command mfr
+INFO: Removing 1 recipes
+INFO: Adding recipe for Iron Frame
+INFO: Adding Diorite to ore dictionary entry stoneDiorite
+INFO: Adding Basalt to ore dictionary entry stoneBasalt
+INFO: Adding Basalt Brick to ore dictionary entry stoneBasaltBricks
+INFO: Adding Andesite to ore dictionary entry stoneAndesite
+INFO: Adding Granite to ore dictionary entry stoneGranite
+INFO: Adding Variation: <Botania:stone>
+INFO: Adding Variation: <Botania:stone:2>
+INFO: Adding Variation: <Botania:stone:3>
+INFO: Adding Group: basalt
+INFO: Adding Variation: <Botania:stone:1>
+INFO: Adding Variation: <ganyssurface:basalt>
+INFO: Adding Variation: <ProjRed|Exploration:projectred.exploration.stone:3>
+INFO: Adding Variation: <Botania:stone:5>
+INFO: Adding Variation: <ganyssurface:basalt:1>
+INFO: Adding Variation: <Botania:stone:9>
+INFO: Adding Variation: <ProjRed|Exploration:projectred.exploration.stone:4>
+INFO: Adding Variation: <Botania:stone:13>
+INFO: Removing 1 recipes
+INFO: Adding recipe for Basalt Wall
+INFO: Removing 1 recipes
+INFO: Adding recipe for Basalt Brick Wall
+INFO: Removing 1 recipes
+INFO: Adding recipe for Marble Wall
+ERROR: AncientWarfareFix.zs:5: Could not resolve <AncientWarfare : component : 4>
+ERROR: AncientWarfareFix.zs:6: Could not resolve <AncientWarfare : component : 4>
+ERROR: Error executing AncientWarfareFix.zs: null
+java.lang.NullPointerException
+	at minetweaker.mc1710.recipes.MCRecipeManager.remove(MCRecipeManager.java:94)
+	at AncientWarfareFix.__script__(AncientWarfareFix.zs:5)
+	at __ZenMain__.run(AncientWarfareFix.zs)
+	at minetweaker.runtime.MTTweaker.load(MTTweaker.java:157)
+	at minetweaker.MineTweakerImplementationAPI.reload(MineTweakerImplementationAPI.java:624)
+	at minetweaker.MineTweakerImplementationAPI.onServerStart(MineTweakerImplementationAPI.java:555)
+	at minetweaker.mc1710.MineTweakerMod.onServerAboutToStart(MineTweakerMod.java:166)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.serverAboutToStart(Loader.java:859)
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerAboutToStart(FMLCommonHandler.java:273)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:256)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+ERROR: CalcFix.zs:6: Could not resolve <Calculator : CalculatorAssembly>
+ERROR: CalcFix.zs:7: Could not resolve <Calculator : CalculatorAssembly>
+ERROR: Error executing CalcFix.zs: null
+java.lang.NullPointerException
+	at minetweaker.mc1710.recipes.MCRecipeManager.remove(MCRecipeManager.java:94)
+	at CalcFix.__script__(CalcFix.zs:6)
+	at __ZenMain__.run(CalcFix.zs)
+	at minetweaker.runtime.MTTweaker.load(MTTweaker.java:157)
+	at minetweaker.MineTweakerImplementationAPI.reload(MineTweakerImplementationAPI.java:624)
+	at minetweaker.MineTweakerImplementationAPI.onServerStart(MineTweakerImplementationAPI.java:555)
+	at minetweaker.mc1710.MineTweakerMod.onServerAboutToStart(MineTweakerMod.java:166)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.serverAboutToStart(Loader.java:859)
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerAboutToStart(FMLCommonHandler.java:273)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:256)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+INFO: Removing 1 recipes
+INFO: Adding recipe for Chisel
+ERROR: Curtain Fix.zs:3: Could not resolve <malisisdoors : item . curtain>
+ERROR: Curtain Fix.zs:5: Could not resolve <malisisdoors : item . curtain>
+ERROR: ?:3 > a method available but none matches the parameters (any, any[])
+ERROR: Error executing Curtain Fix.zs: null
+java.lang.NullPointerException
+	at Curtain Fix.__script__(Curtain Fix.zs:5)
+	at __ZenMain__.run(Curtain Fix.zs)
+	at minetweaker.runtime.MTTweaker.load(MTTweaker.java:157)
+	at minetweaker.MineTweakerImplementationAPI.reload(MineTweakerImplementationAPI.java:624)
+	at minetweaker.MineTweakerImplementationAPI.onServerStart(MineTweakerImplementationAPI.java:555)
+	at minetweaker.mc1710.MineTweakerMod.onServerAboutToStart(MineTweakerMod.java:166)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.serverAboutToStart(Loader.java:859)
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerAboutToStart(FMLCommonHandler.java:273)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:256)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+INFO: Removing 1 recipes
+INFO: Adding recipe for Blank Portal Module
+ERROR: ExNihilo.zs:4: Could not resolve <exnihilo : mesh>
+ERROR: ExNihilo.zs:5: Could not resolve <exnihilo : mesh>
+ERROR: Error executing ExNihilo.zs: null
+java.lang.NullPointerException
+	at minetweaker.mc1710.recipes.MCRecipeManager.remove(MCRecipeManager.java:94)
+	at ExNihilo.__script__(ExNihilo.zs:4)
+	at __ZenMain__.run(ExNihilo.zs)
+	at minetweaker.runtime.MTTweaker.load(MTTweaker.java:157)
+	at minetweaker.MineTweakerImplementationAPI.reload(MineTweakerImplementationAPI.java:624)
+	at minetweaker.MineTweakerImplementationAPI.onServerStart(MineTweakerImplementationAPI.java:555)
+	at minetweaker.mc1710.MineTweakerMod.onServerAboutToStart(MineTweakerMod.java:166)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.serverAboutToStart(Loader.java:859)
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerAboutToStart(FMLCommonHandler.java:273)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:256)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+ERROR: IC2 Recipe Fix.zs:3: Could not resolve <Metallurgy : bronze . axe>
+ERROR: IC2 Recipe Fix.zs:4: Could not resolve <Metallurgy : bronze . pickaxe>
+ERROR: IC2 Recipe Fix.zs:5: Could not resolve <Metallurgy : bronze . shovel>
+ERROR: IC2 Recipe Fix.zs:6: Could not resolve <Metallurgy : bronze . sword>
+ERROR: IC2 Recipe Fix.zs:7: Could not resolve <Metallurgy : bronze . hoe>
+ERROR: IC2 Recipe Fix.zs:8: Could not resolve <Metallurgy : metallurgy . bronze . helmet>
+ERROR: IC2 Recipe Fix.zs:9: Could not resolve <Metallurgy : metallurgy . bronze . chestplate>
+ERROR: IC2 Recipe Fix.zs:10: Could not resolve <Metallurgy : metallurgy . bronze . leggings>
+ERROR: IC2 Recipe Fix.zs:11: Could not resolve <Metallurgy : metallurgy . bronze . boots>
+ERROR: IC2 Recipe Fix.zs:13: Could not resolve <Metallurgy : copper . axe>
+ERROR: IC2 Recipe Fix.zs:14: Could not resolve <Metallurgy : copper . pickaxe>
+ERROR: IC2 Recipe Fix.zs:15: Could not resolve <Metallurgy : copper . shovel>
+ERROR: IC2 Recipe Fix.zs:16: Could not resolve <Metallurgy : copper . sword>
+ERROR: IC2 Recipe Fix.zs:17: Could not resolve <Metallurgy : copper . hoe>
+ERROR: IC2 Recipe Fix.zs:18: Could not resolve <Metallurgy : metallurgy . copper . helmet>
+ERROR: IC2 Recipe Fix.zs:19: Could not resolve <Metallurgy : metallurgy . copper . chestplate>
+ERROR: IC2 Recipe Fix.zs:20: Could not resolve <Metallurgy : metallurgy . copper . leggings>
+ERROR: IC2 Recipe Fix.zs:21: Could not resolve <Metallurgy : metallurgy . copper . boots>
+ERROR: Error executing IC2 Recipe Fix.zs: null
+java.lang.NullPointerException
+	at minetweaker.mc1710.recipes.MCRecipeManager.remove(MCRecipeManager.java:94)
+	at IC2 Recipe Fix.__script__(IC2 Recipe Fix.zs:3)
+	at __ZenMain__.run(IC2 Recipe Fix.zs)
+	at minetweaker.runtime.MTTweaker.load(MTTweaker.java:157)
+	at minetweaker.MineTweakerImplementationAPI.reload(MineTweakerImplementationAPI.java:624)
+	at minetweaker.MineTweakerImplementationAPI.onServerStart(MineTweakerImplementationAPI.java:555)
+	at minetweaker.mc1710.MineTweakerMod.onServerAboutToStart(MineTweakerMod.java:166)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.serverAboutToStart(Loader.java:859)
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerAboutToStart(FMLCommonHandler.java:273)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:256)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+INFO: Removing 3 recipes
+INFO: Adding recipe for Skillet
+INFO: Adding Raspberry to ore dictionary entry listAllberry
+INFO: Adding Raspberry to ore dictionary entry listAllfruit
+INFO: Adding Blackberry to ore dictionary entry listAllfruit
+INFO: Adding Blackberry to ore dictionary entry listAllberry
+INFO: Adding Blueberry to ore dictionary entry listAllfruit
+INFO: Adding Blueberry to ore dictionary entry listAllberry
+INFO: Removing 1 recipes
+INFO: Adding recipe for RR Wrench
+INFO: Adding Thaumcraft Infusion Recipe for :Cowl of the Abyssal Depths
+INFO: Adding Thaumcraft Infusion Recipe for :Robes of the Stratosphere
+INFO: Adding Thaumcraft Infusion Recipe for :Leggings of the Burning Mantle
+INFO: Adding Thaumcraft Infusion Recipe for :Boots of the Horizontal Shield
+INFO: Removing 0 recipes
+INFO: Adding recipe for Voidstone
+INFO: Adding minetweaker command tooltips
+INFO: Adding minetweaker command entities
+INFO: Adding minetweaker command gases
+INFO: Adding minetweaker command research
+INFO: Adding minetweaker command aspectList
+INFO: Adding minetweaker command materials
+INFO: Adding minetweaker command lexiconCategories
+INFO: Adding minetweaker command lexiconPages
+INFO: Adding minetweaker command botaniaBrews
+INFO: Adding minetweaker command lexiconKnowledgeTypes
+INFO: Adding minetweaker command botaniaOrchid
+INFO: Adding minetweaker command chiselGroups
+INFO: Adding minetweaker command chiselVariations
