@@ -1,108 +1,68 @@
-[20:13:46] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[20:15:00] [Server thread/INFO]: Loading properties
-[20:15:00] [Server thread/INFO]: Default game type: SURVIVAL
-[20:15:00] [Server thread/INFO]: Generating keypair
-[20:15:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:15:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:15:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:15:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:15:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:15:56] [Server thread/INFO]: Preparing level "world"
-[20:17:18] [Server thread/INFO]: Preparing start region for level 0
-[20:17:19] [Server thread/INFO]: Preparing spawn area: 40%
-[20:17:20] [Server thread/INFO]: Preparing spawn area: 48%
-[20:17:20] [Server thread/INFO]: Done (85,648s)! For help, type "help" or "?"
-[20:21:13] [Server thread/INFO]: Seileyas[/127.0.0.1:50735] logged in with entity id 2030 at (141.48894499066844, 71.0, 136.96699548112355)
-[20:21:13] [Server thread/INFO]: Seileyas joined the game
-[20:22:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3755ms behind, skipping 75 tick(s)
-[21:05:41] [Server thread/INFO]: loonylinda[/70.53.15.51:61498] logged in with entity id 209669 at (115.34924849845801, 79.0, 147.1653954774858)
-[21:05:41] [Server thread/INFO]: loonylinda joined the game
-[21:10:34] [Server thread/INFO]: HenkJr was pricked to death
-[21:23:32] [Server thread/INFO]: [loonylinda: Given [Golden Jailer's Safari Net] * 1 to loonylinda]
-[21:36:56] [Server thread/INFO]: TreyII burned to death
-[21:37:40] [Server thread/INFO]: [Seileyas: Teleported Seileyas to 1644.5,72.5,532.5]
-[21:40:37] [Server thread/INFO]: [Seileyas: Teleported Seileyas to 942.5,69.5,220.5]
-[21:40:45] [Server thread/INFO]: [Seileyas: Teleported Seileyas to 151.5,71.5,139.5]
-[21:41:14] [Server thread/INFO]: [loonylinda: Given [Golden Jailer's Safari Net] * 1 to loonylinda]
-[21:53:46] [Server thread/INFO]: [Seileyas: Teleported Seileyas to 16.5,78.5,9.5]
-[21:53:47] [Server thread/ERROR]: "Silently" catching entity tracking error.
-net.minecraft.util.ReportedException: Adding entity to track
-	at net.minecraft.entity.EntityTracker.func_72785_a(EntityTracker.java:230) [mn.class:?]
-	at cpw.mods.fml.common.registry.EntityRegistry.tryTrackingEntity(EntityRegistry.java:364) [EntityRegistry.class:?]
-	at net.minecraft.entity.EntityTracker.func_72786_a(EntityTracker.java:61) [mn.class:?]
-	at net.minecraft.world.WorldManager.func_72703_a(SourceFile:31) [mp.class:?]
-	at net.minecraft.world.World.func_72923_a(World.java:1347) [ahb.class:?]
-	at net.minecraft.world.WorldServer.func_72923_a(WorldServer.java:844) [mt.class:?]
-	at net.minecraft.world.World.func_72868_a(World.java:3304) [ahb.class:?]
-	at net.minecraft.world.chunk.Chunk.func_76631_c(Chunk.java:921) [apx.class:?]
-	at net.minecraftforge.common.chunkio.ChunkIOProvider.callStage2(ChunkIOProvider.java:46) [ChunkIOProvider.class:?]
-	at net.minecraftforge.common.chunkio.ChunkIOProvider.callStage2(ChunkIOProvider.java:12) [ChunkIOProvider.class:?]
-	at net.minecraftforge.common.util.AsynchronousExecutor.skipQueue(AsynchronousExecutor.java:344) [AsynchronousExecutor.class:?]
-	at net.minecraftforge.common.util.AsynchronousExecutor.getSkipQueue(AsynchronousExecutor.java:302) [AsynchronousExecutor.class:?]
-	at net.minecraftforge.common.chunkio.ChunkIOExecutor.syncChunkLoad(ChunkIOExecutor.java:12) [ChunkIOExecutor.class:?]
-	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:126) [ms.class:?]
-	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101) [ms.class:?]
-	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199) [ms.class:?]
-	at net.minecraft.world.World.func_72964_e(World.java:419) [ahb.class:?]
-	at net.minecraft.world.World.func_147439_a(World.java:345) [ahb.class:?]
-	at net.minecraft.block.BlockFire.getChanceToEncourageFire(BlockFire.java:516) [alb.class:?]
-	at net.minecraft.block.BlockFire.func_149845_m(BlockFire.java:265) [alb.class:?]
-	at net.minecraft.block.BlockFire.func_149674_a(BlockFire.java:169) [alb.class:?]
-	at net.minecraft.world.WorldServer.func_72955_a(WorldServer.java:550) [mt.class:?]
-	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:181) [mt.class:?]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:625) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:334) [lt.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
-Caused by: java.lang.IllegalStateException: Entity is already tracked!
-	at net.minecraft.entity.EntityTracker.func_72785_a(EntityTracker.java:196) ~[mn.class:?]
-	... 27 more
-[21:53:53] [Server thread/WARN]: Fetching addPacket for removed entity
-[21:53:53] [Server thread/WARN]: Fetching addPacket for removed entity
-[21:53:53] [Server thread/WARN]: Fetching addPacket for removed entity
-[22:03:55] [Server thread/INFO]: [loonylinda: Teleported loonylinda to -62.5,66.5,491.5]
-[22:06:49] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 123.5,78.5,146.5]
-[22:07:32] [Server thread/INFO]: [loonylinda: Teleported loonylinda to -62.5,66.5,491.5]
-[22:08:55] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 123.5,78.5,146.5]
-[22:10:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2620ms behind, skipping 52 tick(s)
-[22:10:51] [Server thread/INFO]: [loonylinda: Teleported loonylinda to -62.5,66.5,491.5]
-[22:11:31] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 123.5,78.5,146.5]
-[22:20:39] [Server thread/INFO]: Stella was slain by loonylinda
-[22:22:08] [Server thread/INFO]: Al was slain by loonylinda
-[22:22:52] [Server thread/INFO]: [loonylinda: Given [Golden Jailer's Safari Net] * 1 to loonylinda]
-[22:23:31] [Server thread/INFO]: Victor was pricked to death
-[22:23:49] [Server thread/INFO]: loonylinda was slain by Minotaur
-[22:26:33] [Server thread/INFO]: [Seileyas: Given [Wooden Fluid Pipe] * 1 to Seileyas]
-[22:27:03] [Server thread/INFO]: loonylinda lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: De externe host heeft een verbinding verbroken], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[22:27:03] [Server thread/INFO]: loonylinda left the game
-[22:31:31] [Server thread/INFO]: loonylinda[/70.53.15.51:61416] logged in with entity id 584652 at (-27.930344889629062, 77.0, 233.06533540838547)
-[22:31:31] [Server thread/INFO]: loonylinda joined the game
-[22:34:08] [Server thread/INFO]: loonylinda was slain by Al Jr
-[22:34:36] [Server thread/INFO]: [Seileyas: Given [Wooden Transport Pipe] * 1 to Seileyas]
-[22:36:18] [Server thread/INFO]: [loonylinda: Given [Dino Steak] * 64 to loonylinda]
-[22:42:12] [Server thread/INFO]: [Seileyas: Given [Iron Transport Pipe] * 64 to Seileyas]
-[22:42:35] [Server thread/INFO]: [Seileyas: Given [Wrench] * 1 to Seileyas]
-[22:46:25] [Server thread/INFO]: Al Jr was pricked to death
-[22:46:45] [Server thread/INFO]: loonylinda lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[22:46:45] [Server thread/INFO]: loonylinda left the game
-[22:51:06] [Server thread/INFO]: [Seileyas: Given [XP Shower] * 64 to Seileyas]
-[22:59:37] [Server thread/INFO]: [Seileyas: Saved the world]
-[22:59:40] [Server thread/INFO]: [Seileyas: Stopping the server]
-[22:59:40] [Server thread/INFO]: Stopping server
-[22:59:40] [Server thread/INFO]: Saving players
-[22:59:40] [Server thread/INFO]: Saving worlds
-[22:59:40] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[22:59:40] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[22:59:40] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[22:59:40] [Server thread/INFO]: Saving chunks for level 'world'/Underdark
-[22:59:40] [Server thread/INFO]: Saving chunks for level 'world'/the Ancient Treasure Room
-[22:59:40] [Server thread/INFO]: Saving chunks for level 'world'/Spirit World
-[22:59:40] [Server thread/INFO]: Saving chunks for level 'world'/Torment
-[22:59:40] [Server thread/INFO]: Saving chunks for level 'world'/Mirror
-[22:59:40] [Server thread/INFO]: Saving chunks for level 'world'/Land of Darkness
-[22:59:40] [Server thread/INFO]: Saving chunks for level 'world'/Bedrock
-[22:59:40] [Server thread/INFO]: Saving chunks for level 'world'/The Outer Lands
-[22:59:40] [Server thread/INFO]: Saving chunks for level 'world'/The Last Millenium
-[22:59:40] [Server thread/INFO]: Saving chunks for level 'world'/Twilight Forest
-[22:59:40] [Server thread/INFO]: Saving chunks for level 'world'/SpectreWorld
+[00:04:50] [Server thread/INFO]: [loonylinda: Given [Golden Jailer's Safari Net] * 1 to loonylinda]
+[00:18:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3559ms behind, skipping 71 tick(s)
+[00:19:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12750ms behind, skipping 255 tick(s)
+[00:20:01] [Server thread/INFO]: loonylinda lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:20:01] [Server thread/INFO]: loonylinda left the game
+[00:20:01] [Server thread/INFO]: loonylinda[/127.0.0.1:50053] logged in with entity id 295637 at (-264.9931535788863, 72.0, 482.5872759035407)
+[00:20:01] [Server thread/INFO]: loonylinda joined the game
+[00:20:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5677ms behind, skipping 113 tick(s)
+[00:27:54] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 121.5,78.5,146.5]
+[00:36:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3320ms behind, skipping 66 tick(s)
+[01:07:41] [Server thread/INFO]: loonylinda has just earned the achievement [Bake Bread]
+[01:21:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2637ms behind, skipping 52 tick(s)
+[01:23:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2018ms behind, skipping 40 tick(s)
+[01:25:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2280ms behind, skipping 45 tick(s)
+[01:27:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2321ms behind, skipping 46 tick(s)
+[01:29:40] [Server thread/INFO]: Al Capone was shot by Minotaurus
+[01:42:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2313ms behind, skipping 46 tick(s)
+[01:50:57] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 1645.5,72.5,532.5]
+[01:51:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2713ms behind, skipping 54 tick(s)
+[01:58:13] [Server thread/INFO]: /127.0.0.1:50267 lost connection: Disconnected
+[01:58:13] [Server thread/INFO]: /127.0.0.1:50266 lost connection: Disconnected
+[01:58:13] [Server thread/INFO]: /127.0.0.1:50271 lost connection: Disconnected
+[01:58:13] [Server thread/INFO]: Saving...
+[01:58:14] [Server thread/INFO]: Saved the world
+[01:58:14] [Server thread/INFO]: loonylinda lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: An established connection was aborted by the software in your host machine], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:58:14] [Server thread/INFO]: loonylinda left the game
+[01:58:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11667ms behind, skipping 233 tick(s)
+[01:58:22] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[01:58:36] [Server thread/INFO]: Saving...
+[01:58:37] [Server thread/INFO]: Saved the world
+[02:03:48] [Server thread/INFO]: loonylinda[/127.0.0.1:50435] logged in with entity id 622004 at (1645.5, 72.0, 532.5)
+[02:03:48] [Server thread/INFO]: loonylinda joined the game
+[02:04:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2957ms behind, skipping 59 tick(s)
+[02:06:34] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 121.5,78.5,146.5]
+[02:06:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2316ms behind, skipping 46 tick(s)
+[02:10:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5788ms behind, skipping 115 tick(s)
+[02:15:08] [Server thread/INFO]: [loonylinda: Given [Analyzer] * 1 to loonylinda]
+[02:22:48] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 121.5,78.5,146.5]
+[02:27:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6885ms behind, skipping 137 tick(s)
+[02:28:28] [Server thread/INFO]: [loonylinda: Given [Book of Withering] * 1 to loonylinda]
+[02:34:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2211ms behind, skipping 44 tick(s)
+[02:47:51] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 121.5,78.5,146.5]
+[02:49:32] [Server thread/INFO]: [loonylinda: Given [Toast] * 1 to loonylinda]
+[02:59:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4322ms behind, skipping 86 tick(s)
+[03:05:54] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 14.5,64.5,200.5]
+[03:06:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4415ms behind, skipping 88 tick(s)
+[03:11:53] [Server thread/INFO]: loonylinda lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[03:11:53] [Server thread/INFO]: loonylinda left the game
+[03:12:10] [Server thread/INFO]: Saving...
+[03:12:10] [Server thread/INFO]: Saved the world
+[03:12:15] [Server thread/INFO]: Stopping the server
+[03:12:16] [Server thread/INFO]: Stopping server
+[03:12:16] [Server thread/INFO]: Saving players
+[03:12:16] [Server thread/INFO]: Saving worlds
+[03:12:16] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[03:12:16] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[03:12:16] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[03:12:16] [Server thread/INFO]: Saving chunks for level 'world'/Underdark
+[03:12:16] [Server thread/INFO]: Saving chunks for level 'world'/the Ancient Treasure Room
+[03:12:16] [Server thread/INFO]: Saving chunks for level 'world'/Spirit World
+[03:12:16] [Server thread/INFO]: Saving chunks for level 'world'/Torment
+[03:12:16] [Server thread/INFO]: Saving chunks for level 'world'/Mirror
+[03:12:16] [Server thread/INFO]: Saving chunks for level 'world'/Land of Darkness
+[03:12:16] [Server thread/INFO]: Saving chunks for level 'world'/Bedrock
+[03:12:16] [Server thread/INFO]: Saving chunks for level 'world'/The Outer Lands
+[03:12:16] [Server thread/INFO]: Saving chunks for level 'world'/The Last Millenium
+[03:12:16] [Server thread/INFO]: Saving chunks for level 'world'/Twilight Forest
+[03:12:16] [Server thread/INFO]: Saving chunks for level 'world'/SpectreWorld
