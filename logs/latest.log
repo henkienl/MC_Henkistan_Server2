@@ -1,41 +1,22 @@
-[18:42:44] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[18:44:09] [Server thread/INFO]: Loading properties
-[18:44:10] [Server thread/INFO]: Default game type: SURVIVAL
-[18:44:10] [Server thread/INFO]: Generating keypair
-[18:44:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:45:45] [Server thread/INFO]: Preparing level "world"
-[18:49:04] [Server thread/INFO]: Preparing start region for level 0
-[18:49:05] [Server thread/INFO]: Preparing spawn area: 21%
-[18:49:07] [Server thread/INFO]: Preparing spawn area: 44%
-[18:49:08] [Server thread/INFO]: Preparing spawn area: 49%
-[18:49:09] [Server thread/INFO]: Done (205,740s)! For help, type "help" or "?"
-[18:54:25] [User Authenticator #1/INFO]: UUID of player Seileyas is 24edf5d4-9f30-45f9-a861-9600028d6af9
-[18:54:26] [Server thread/INFO]: Seileyas[/127.0.0.1:55809] logged in with entity id 1615 at (141.7763477158166, 71.0, 137.8187194686497)
-[18:54:26] [Server thread/INFO]: Seileyas joined the game
-[18:56:25] [Server thread/INFO]: [Seileyas: Teleported Seileyas to 168.5,69.5,620.5]
-[18:56:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3685ms behind, skipping 73 tick(s)
-[19:33:59] [Server thread/INFO]: [Seileyas: Teleported Seileyas to 127.5,76.5,149.5]
-[19:34:53] [Server thread/INFO]: [Seileyas: Teleported Seileyas to 116.5,90.5,147.5]
-[20:12:19] [Server thread/INFO]: Seileyas has just earned the achievement [Daybreak Arrival]
-[20:26:02] [Server thread/INFO]: Seileyas lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[20:26:02] [Server thread/INFO]: Seileyas left the game
-[20:26:32] [Server thread/INFO]: Saving...
-[20:26:32] [Server thread/INFO]: Saved the world
-[20:26:34] [Server thread/INFO]: Stopping the server
-[20:26:35] [Server thread/INFO]: Stopping server
-[20:26:35] [Server thread/INFO]: Saving players
-[20:26:35] [Server thread/INFO]: Saving worlds
-[20:26:35] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[20:26:35] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[20:26:35] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[20:26:35] [Server thread/INFO]: Saving chunks for level 'world'/Underdark
-[20:26:35] [Server thread/INFO]: Saving chunks for level 'world'/the Ancient Treasure Room
-[20:26:35] [Server thread/INFO]: Saving chunks for level 'world'/Spirit World
-[20:26:35] [Server thread/INFO]: Saving chunks for level 'world'/Torment
-[20:26:35] [Server thread/INFO]: Saving chunks for level 'world'/Mirror
-[20:26:35] [Server thread/INFO]: Saving chunks for level 'world'/Land of Darkness
-[20:26:35] [Server thread/INFO]: Saving chunks for level 'world'/Bedrock
-[20:26:35] [Server thread/INFO]: Saving chunks for level 'world'/The Outer Lands
-[20:26:35] [Server thread/INFO]: Saving chunks for level 'world'/The Last Millenium
-[20:26:35] [Server thread/INFO]: Saving chunks for level 'world'/Twilight Forest
-[20:26:35] [Server thread/INFO]: Saving chunks for level 'world'/SpectreWorld
+[01:17:18] [Server thread/INFO]: loonylinda lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:17:18] [Server thread/INFO]: loonylinda left the game
+[01:17:46] [Server thread/INFO]: Saving...
+[01:17:47] [Server thread/INFO]: Saved the world
+[01:17:53] [Server thread/INFO]: Stopping the server
+[01:17:54] [Server thread/INFO]: Stopping server
+[01:17:54] [Server thread/INFO]: Saving players
+[01:17:54] [Server thread/INFO]: Saving worlds
+[01:17:54] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[01:17:54] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[01:17:54] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[01:17:54] [Server thread/INFO]: Saving chunks for level 'world'/Underdark
+[01:17:54] [Server thread/INFO]: Saving chunks for level 'world'/the Ancient Treasure Room
+[01:17:54] [Server thread/INFO]: Saving chunks for level 'world'/Spirit World
+[01:17:54] [Server thread/INFO]: Saving chunks for level 'world'/Torment
+[01:17:54] [Server thread/INFO]: Saving chunks for level 'world'/Mirror
+[01:17:54] [Server thread/INFO]: Saving chunks for level 'world'/Land of Darkness
+[01:17:54] [Server thread/INFO]: Saving chunks for level 'world'/Bedrock
+[01:17:54] [Server thread/INFO]: Saving chunks for level 'world'/The Outer Lands
+[01:17:54] [Server thread/INFO]: Saving chunks for level 'world'/The Last Millenium
+[01:17:54] [Server thread/INFO]: Saving chunks for level 'world'/Twilight Forest
+[01:17:54] [Server thread/INFO]: Saving chunks for level 'world'/SpectreWorld
