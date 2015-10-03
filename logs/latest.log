@@ -1,57 +1,95 @@
-[00:18:20] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[00:19:03] [Server thread/INFO]: Loading properties
-[00:19:03] [Server thread/INFO]: Default game type: SURVIVAL
-[00:19:03] [Server thread/INFO]: Generating keypair
-[00:19:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:19:39] [Server thread/INFO]: Preparing level "world"
-[00:20:40] [Server thread/INFO]: Preparing start region for level 0
-[00:20:41] [Server thread/INFO]: Preparing spawn area: 44%
-[00:20:42] [Server thread/INFO]: Done (64.197s)! For help, type "help" or "?"
-[00:25:37] [User Authenticator #1/INFO]: UUID of player loonylinda is 153f6663-1ae5-4e91-aac6-367fed89c21a
-[00:25:38] [Server thread/INFO]: loonylinda[/127.0.0.1:55871] logged in with entity id 1285 at (123.42080060671753, 78.0, 145.55280531606152)
-[00:25:38] [Server thread/INFO]: loonylinda joined the game
-[00:26:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4034ms behind, skipping 80 tick(s)
-[00:26:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2195ms behind, skipping 43 tick(s)
-[00:26:54] [Server thread/INFO]: [loonylinda: Given [Name Tag] * 1 to loonylinda]
-[00:26:56] [Server thread/INFO]: [loonylinda: Given [Name Tag] * 1 to loonylinda]
-[00:26:56] [Server thread/INFO]: [loonylinda: Given [Name Tag] * 1 to loonylinda]
-[00:26:56] [Server thread/INFO]: [loonylinda: Given [Name Tag] * 1 to loonylinda]
-[00:26:56] [Server thread/INFO]: [loonylinda: Given [Name Tag] * 1 to loonylinda]
-[00:26:58] [Server thread/INFO]: [loonylinda: Given [Name Tag] * 1 to loonylinda]
-[00:26:58] [Server thread/INFO]: [loonylinda: Given [Name Tag] * 1 to loonylinda]
-[00:26:59] [Server thread/INFO]: [loonylinda: Given [Name Tag] * 1 to loonylinda]
-[00:26:59] [Server thread/INFO]: [loonylinda: Given [Name Tag] * 1 to loonylinda]
-[00:27:01] [Server thread/INFO]: [loonylinda: Given [Name Tag] * 1 to loonylinda]
-[00:27:01] [Server thread/INFO]: [loonylinda: Given [Name Tag] * 1 to loonylinda]
-[00:27:01] [Server thread/INFO]: [loonylinda: Given [Name Tag] * 1 to loonylinda]
-[00:27:01] [Server thread/INFO]: [loonylinda: Given [Name Tag] * 1 to loonylinda]
-[00:27:01] [Server thread/INFO]: [loonylinda: Given [Name Tag] * 1 to loonylinda]
-[00:27:02] [Server thread/INFO]: [loonylinda: Given [Name Tag] * 1 to loonylinda]
-[00:27:03] [Server thread/INFO]: [loonylinda: Given [Name Tag] * 1 to loonylinda]
-[00:27:03] [Server thread/INFO]: [loonylinda: Given [Name Tag] * 1 to loonylinda]
-[00:27:03] [Server thread/INFO]: [loonylinda: Given [Name Tag] * 1 to loonylinda]
-[00:27:03] [Server thread/INFO]: [loonylinda: Given [Name Tag] * 1 to loonylinda]
-[00:27:06] [Server thread/INFO]: [loonylinda: Given [Name Tag] * 1 to loonylinda]
-[01:15:07] [Server thread/WARN]: Fetching addPacket for removed entity
-[01:44:55] [Server thread/INFO]: loonylinda lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[01:44:55] [Server thread/INFO]: loonylinda left the game
-[01:45:17] [Server thread/INFO]: Saving...
-[01:45:17] [Server thread/INFO]: Saved the world
-[01:45:26] [Server thread/INFO]: Stopping the server
-[01:45:30] [Server thread/INFO]: Stopping server
-[01:45:30] [Server thread/INFO]: Saving players
-[01:45:30] [Server thread/INFO]: Saving worlds
-[01:45:30] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[01:45:30] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[01:45:30] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[01:45:30] [Server thread/INFO]: Saving chunks for level 'world'/Underdark
-[01:45:30] [Server thread/INFO]: Saving chunks for level 'world'/the Ancient Treasure Room
-[01:45:30] [Server thread/INFO]: Saving chunks for level 'world'/Spirit World
-[01:45:30] [Server thread/INFO]: Saving chunks for level 'world'/Torment
-[01:45:30] [Server thread/INFO]: Saving chunks for level 'world'/Mirror
-[01:45:30] [Server thread/INFO]: Saving chunks for level 'world'/Land of Darkness
-[01:45:30] [Server thread/INFO]: Saving chunks for level 'world'/Bedrock
-[01:45:30] [Server thread/INFO]: Saving chunks for level 'world'/The Outer Lands
-[01:45:30] [Server thread/INFO]: Saving chunks for level 'world'/The Last Millenium
-[01:45:30] [Server thread/INFO]: Saving chunks for level 'world'/Twilight Forest
-[01:45:30] [Server thread/INFO]: Saving chunks for level 'world'/SpectreWorld
+[18:30:33] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[18:31:12] [Server thread/INFO]: Loading properties
+[18:31:12] [Server thread/INFO]: Default game type: SURVIVAL
+[18:31:12] [Server thread/INFO]: Generating keypair
+[18:31:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:31:48] [Server thread/INFO]: Preparing level "world"
+[18:33:27] [Server thread/INFO]: Preparing start region for level 0
+[18:33:28] [Server thread/INFO]: Preparing spawn area: 29%
+[18:33:29] [Server thread/INFO]: Preparing spawn area: 44%
+[18:33:30] [Server thread/INFO]: Done (102,463s)! For help, type "help" or "?"
+[18:36:35] [User Authenticator #1/INFO]: UUID of player Seileyas is 24edf5d4-9f30-45f9-a861-9600028d6af9
+[18:36:36] [Server thread/INFO]: Seileyas[/127.0.0.1:50954] logged in with entity id 1296 at (142.35885127331963, 71.0, 137.21828042239775)
+[18:36:36] [Server thread/INFO]: Seileyas joined the game
+[18:37:32] [Server thread/INFO]: [Seileyas: Teleported Seileyas to 4000.5,100.5,-2599.5]
+[18:37:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2767ms behind, skipping 55 tick(s)
+[18:38:26] [User Authenticator #2/INFO]: UUID of player loonylinda is 153f6663-1ae5-4e91-aac6-367fed89c21a
+[18:38:27] [Server thread/INFO]: loonylinda[/207.35.24.228:50582] logged in with entity id 5358 at (118.95511192482792, 78.0, 144.05847614970844)
+[18:38:27] [Server thread/INFO]: loonylinda joined the game
+[18:40:14] [Server thread/INFO]: [loonylinda: Teleported loonylinda to -174.5,70.5,86.5]
+[18:40:28] [Server thread/INFO]: [Seileyas: Teleported loonylinda to Seileyas]
+[18:41:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6161ms behind, skipping 123 tick(s)
+[18:42:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4269ms behind, skipping 85 tick(s)
+[18:42:21] [Server thread/INFO]: [loonylinda: Teleported loonylinda to Seileyas]
+[18:47:26] [Server thread/INFO]: [Seileyas: Teleported Seileyas to 127.5,76.5,149.5]
+[18:50:06] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 633.5,68.5,-3.5]
+[18:50:21] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 123.5,78.5,146.5]
+[19:08:37] [Server thread/INFO]: [Seileyas: Toggled downfall]
+[19:08:41] [Server thread/INFO]: [Seileyas: Set the time to 0]
+[19:15:21] [Server thread/INFO]: loonylinda has just earned the achievement [Time to Farm!]
+[19:18:47] [Server thread/INFO]: [loonylinda: Teleported loonylinda to Seileyas]
+[19:19:32] [Server thread/INFO]: [Seileyas: Toggled downfall]
+[19:20:55] [Server thread/INFO]: [loonylinda: Given [Acacia Wood Planks] * 1 to loonylinda]
+[19:20:56] [Server thread/INFO]: [loonylinda: Given [Acacia Wood Planks] * 1 to loonylinda]
+[19:23:35] [Server thread/INFO]: [loonylinda: Given [Oak Sapling] * 1 to loonylinda]
+[19:25:21] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 123.5,78.5,146.5]
+[19:27:39] [Server thread/INFO]: loonylinda lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: De externe host heeft een verbinding verbroken], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:27:39] [Server thread/INFO]: loonylinda left the game
+[19:31:15] [User Authenticator #3/INFO]: UUID of player loonylinda is 153f6663-1ae5-4e91-aac6-367fed89c21a
+[19:31:17] [Server thread/INFO]: loonylinda[/207.35.24.228:50780] logged in with entity id 181833 at (181.97681953232632, 71.0, 211.1551215085433)
+[19:31:17] [Server thread/INFO]: loonylinda joined the game
+[19:31:59] [Server thread/INFO]: [Seileyas: Toggled downfall]
+[19:33:25] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 123.5,78.5,146.5]
+[19:34:15] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 202.5,70.5,233.5]
+[19:41:39] [Server thread/INFO]: [loonylinda: Given [Raw Chicken] * 64 to loonylinda]
+[19:49:35] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 123.5,78.5,146.5]
+[19:50:32] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 202.5,70.5,233.5]
+[19:51:39] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 123.5,78.5,146.5]
+[19:51:56] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 202.5,70.5,233.5]
+[20:02:32] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 132.5,71.5,149.5]
+[20:35:00] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 123.5,78.5,146.5]
+[20:35:37] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 202.5,70.5,233.5]
+[20:48:31] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 202.5,70.5,233.5]
+[20:54:22] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 123.5,78.5,146.5]
+[21:07:47] [Server thread/WARN]: Seileyas moved wrongly!
+[21:12:58] [Server thread/INFO]: [loonylinda: Given [Raw Chicken] * 64 to loonylinda]
+[21:27:08] [Server thread/INFO]: [Seileyas: Toggled downfall]
+[21:35:01] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 202.5,70.5,233.5]
+[21:36:41] [Server thread/INFO]: [loonylinda: Given [Raw Chicken] * 64 to loonylinda]
+[21:37:10] [Server thread/INFO]: [Seileyas: Teleported Seileyas to 1644.5,72.5,532.5]
+[21:37:32] [Server thread/INFO]: [Seileyas: Set the time to 0]
+[21:39:15] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 1642.5,72.5,532.5]
+[21:39:20] [Server thread/INFO]: [Seileyas: Teleported Seileyas to 127.5,76.5,149.5]
+[21:39:39] [Server thread/INFO]: [Seileyas: Teleported Seileyas to 1644.5,72.5,532.5]
+[21:49:38] [Server thread/INFO]: [Seileyas: Toggled downfall]
+[21:50:29] [Server thread/INFO]: [Seileyas: Set the time to 0]
+[21:51:49] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 801.5,84.5,671.5]
+[21:52:09] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 1257.5,68.5,112.5]
+[21:53:13] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 633.5,68.5,-3.5]
+[21:56:17] [Server thread/INFO]: [Seileyas: Given [Ethereal Bloom] * 64 to Seileyas]
+[21:59:32] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 202.5,70.5,233.5]
+[22:03:32] [Server thread/INFO]: [Seileyas: Set the time to 0]
+[22:03:39] [Server thread/INFO]: [Seileyas: Toggled downfall]
+[22:07:03] [Server thread/INFO]: [Seileyas: Teleported Seileyas to 127.5,76.5,149.5]
+[22:19:55] [Server thread/INFO]: loonylinda lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:19:55] [Server thread/INFO]: loonylinda left the game
+[22:20:22] [Server thread/INFO]: [Seileyas: Given [Quintuple Compressed Cobblestone] * 1 to Seileyas]
+[22:21:02] [Server thread/INFO]: [Seileyas: Saved the world]
+[22:21:06] [Server thread/INFO]: [Seileyas: Stopping the server]
+[22:21:06] [Server thread/INFO]: Stopping server
+[22:21:06] [Server thread/INFO]: Saving players
+[22:21:06] [Server thread/INFO]: Saving worlds
+[22:21:06] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[22:21:06] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[22:21:06] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[22:21:06] [Server thread/INFO]: Saving chunks for level 'world'/Underdark
+[22:21:06] [Server thread/INFO]: Saving chunks for level 'world'/the Ancient Treasure Room
+[22:21:06] [Server thread/INFO]: Saving chunks for level 'world'/Spirit World
+[22:21:06] [Server thread/INFO]: Saving chunks for level 'world'/Torment
+[22:21:06] [Server thread/INFO]: Saving chunks for level 'world'/Mirror
+[22:21:06] [Server thread/INFO]: Saving chunks for level 'world'/Land of Darkness
+[22:21:06] [Server thread/INFO]: Saving chunks for level 'world'/Bedrock
+[22:21:06] [Server thread/INFO]: Saving chunks for level 'world'/The Outer Lands
+[22:21:06] [Server thread/INFO]: Saving chunks for level 'world'/The Last Millenium
+[22:21:06] [Server thread/INFO]: Saving chunks for level 'world'/Twilight Forest
+[22:21:06] [Server thread/INFO]: Saving chunks for level 'world'/SpectreWorld
