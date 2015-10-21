@@ -1,54 +1,21 @@
-[15:38:40] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[15:39:24] [Server thread/INFO]: Loading properties
-[15:39:24] [Server thread/INFO]: Default game type: SURVIVAL
-[15:39:24] [Server thread/INFO]: Generating keypair
-[15:39:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:40:12] [Server thread/INFO]: Preparing level "world"
-[15:42:06] [Server thread/INFO]: Preparing start region for level 0
-[15:42:07] [Server thread/INFO]: Preparing spawn area: 29%
-[15:42:08] [Server thread/INFO]: Preparing spawn area: 44%
-[15:42:09] [Server thread/INFO]: Preparing spawn area: 85%
-[15:42:09] [Server thread/INFO]: Done (117,731s)! For help, type "help" or "?"
-[15:43:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2388ms behind, skipping 47 tick(s)
-[15:44:55] [User Authenticator #1/INFO]: UUID of player Seileyas is 24edf5d4-9f30-45f9-a861-9600028d6af9
-[15:44:55] [Server thread/INFO]: Seileyas[/127.0.0.1:52937] logged in with entity id 1293 at (150.60804526204703, 71.0, 139.4230570439338)
-[15:44:55] [Server thread/INFO]: Seileyas joined the game
-[16:17:16] [User Authenticator #2/INFO]: UUID of player loonylinda is 153f6663-1ae5-4e91-aac6-367fed89c21a
-[16:17:18] [Server thread/INFO]: loonylinda[/207.35.24.228:56623] logged in with entity id 56000 at (139.375703366025, 99.51946872045062, 167.84052074672644)
-[16:17:18] [Server thread/INFO]: loonylinda joined the game
-[16:31:43] [Server thread/INFO]: [loonylinda: Teleported loonylinda to Seileyas]
-[16:37:52] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 123.5,78.5,146.5]
-[16:55:25] [Server thread/INFO]: [loonylinda: Given [Name Tag] * 1 to loonylinda]
-[17:09:04] [Server thread/INFO]: [loonylinda: Teleported loonylinda to 123.5,78.5,146.5]
-[17:13:27] [Server thread/INFO]: loonylinda has just earned the achievement [Twilight Portal]
-[17:13:27] [Server thread/INFO]: loonylinda has just earned the achievement [Twilight Arrival]
-[17:13:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2355ms behind, skipping 47 tick(s)
-[17:16:39] [Server thread/WARN]: Fetching addPacket for removed entity
-[17:17:02] [Server thread/WARN]: Seileyas moved wrongly!
-[17:19:16] [Server thread/INFO]: loonylinda has just earned the achievement [Bake Bread]
-[17:26:28] [Server thread/INFO]: [loonylinda: Given [Name Tag] * 1 to loonylinda]
-[17:35:05] [Server thread/INFO]: loonylinda lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[17:35:05] [Server thread/INFO]: loonylinda left the game
-[17:35:07] [Server thread/INFO]: [Seileyas: Teleported Seileyas to 27.5,32.5,23.5]
-[17:35:45] [Server thread/INFO]: Seileyas lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[17:35:45] [Server thread/INFO]: Seileyas left the game
-[17:50:01] [Server thread/INFO]: Saving...
-[17:50:01] [Server thread/INFO]: Saved the world
-[17:50:04] [Server thread/INFO]: Stopping the server
-[17:50:04] [Server thread/INFO]: Stopping server
-[17:50:04] [Server thread/INFO]: Saving players
-[17:50:04] [Server thread/INFO]: Saving worlds
-[17:50:04] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[17:50:04] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[17:50:04] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[17:50:04] [Server thread/INFO]: Saving chunks for level 'world'/Underdark
-[17:50:04] [Server thread/INFO]: Saving chunks for level 'world'/the Ancient Treasure Room
-[17:50:04] [Server thread/INFO]: Saving chunks for level 'world'/Spirit World
-[17:50:04] [Server thread/INFO]: Saving chunks for level 'world'/Torment
-[17:50:04] [Server thread/INFO]: Saving chunks for level 'world'/Mirror
-[17:50:04] [Server thread/INFO]: Saving chunks for level 'world'/Land of Darkness
-[17:50:04] [Server thread/INFO]: Saving chunks for level 'world'/Bedrock
-[17:50:04] [Server thread/INFO]: Saving chunks for level 'world'/The Outer Lands
-[17:50:04] [Server thread/INFO]: Saving chunks for level 'world'/The Last Millenium
-[17:50:04] [Server thread/INFO]: Saving chunks for level 'world'/Twilight Forest
-[17:50:04] [Server thread/INFO]: Saving chunks for level 'world'/SpectreWorld
+[00:00:24] [Server thread/INFO]: [Seileyas: Set the time to 0]
+[00:01:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2942ms behind, skipping 58 tick(s)
+[00:18:03] [Server thread/INFO]: [Seileyas: Saved the world]
+[00:18:08] [Server thread/INFO]: [Seileyas: Stopping the server]
+[00:18:08] [Server thread/INFO]: Stopping server
+[00:18:08] [Server thread/INFO]: Saving players
+[00:18:08] [Server thread/INFO]: Saving worlds
+[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/Underdark
+[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/the Ancient Treasure Room
+[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/Spirit World
+[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/Torment
+[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/Mirror
+[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/Land of Darkness
+[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/Bedrock
+[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/The Outer Lands
+[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/The Last Millenium
+[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/Twilight Forest
+[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/SpectreWorld
