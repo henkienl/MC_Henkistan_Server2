@@ -1,21 +1,41 @@
-[00:00:24] [Server thread/INFO]: [Seileyas: Set the time to 0]
-[00:01:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2942ms behind, skipping 58 tick(s)
-[00:18:03] [Server thread/INFO]: [Seileyas: Saved the world]
-[00:18:08] [Server thread/INFO]: [Seileyas: Stopping the server]
-[00:18:08] [Server thread/INFO]: Stopping server
-[00:18:08] [Server thread/INFO]: Saving players
-[00:18:08] [Server thread/INFO]: Saving worlds
-[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/Underdark
-[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/the Ancient Treasure Room
-[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/Spirit World
-[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/Torment
-[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/Mirror
-[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/Land of Darkness
-[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/Bedrock
-[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/The Outer Lands
-[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/The Last Millenium
-[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/Twilight Forest
-[00:18:08] [Server thread/INFO]: Saving chunks for level 'world'/SpectreWorld
+[11:39:32] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[11:40:19] [Server thread/INFO]: Loading properties
+[11:40:19] [Server thread/INFO]: Default game type: SURVIVAL
+[11:40:19] [Server thread/INFO]: Generating keypair
+[11:40:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:41:13] [Server thread/INFO]: Preparing level "world"
+[11:42:49] [Server thread/INFO]: Preparing start region for level 0
+[11:42:50] [Server thread/INFO]: Preparing spawn area: 31%
+[11:42:52] [Server thread/INFO]: Preparing spawn area: 44%
+[11:42:52] [Server thread/INFO]: Done (99,919s)! For help, type "help" or "?"
+[11:44:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2483ms behind, skipping 49 tick(s)
+[11:45:36] [User Authenticator #1/INFO]: UUID of player Seileyas is 24edf5d4-9f30-45f9-a861-9600028d6af9
+[11:45:37] [Server thread/INFO]: Seileyas[/127.0.0.1:54091] logged in with entity id 978 at (143.34788144536512, 71.0, 138.28023065907863)
+[11:45:37] [Server thread/INFO]: Seileyas joined the game
+[12:08:36] [Server thread/INFO]: [Seileyas: Given [Raw Chicken] * 64 to Seileyas]
+[12:08:36] [Server thread/INFO]: [Seileyas: Given [Raw Chicken] * 64 to Seileyas]
+[12:24:19] [Server thread/WARN]: Seileyas moved wrongly!
+[12:25:52] [Server thread/INFO]: [Seileyas: Given [Obsidian] * 64 to Seileyas]
+[12:25:53] [Server thread/INFO]: [Seileyas: Given [Obsidian] * 64 to Seileyas]
+[12:42:29] [Server thread/INFO]: Seileyas lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:42:29] [Server thread/INFO]: Seileyas left the game
+[12:42:37] [Server thread/INFO]: Saving...
+[12:42:37] [Server thread/INFO]: Saved the world
+[12:42:39] [Server thread/INFO]: Stopping the server
+[12:42:39] [Server thread/INFO]: Stopping server
+[12:42:39] [Server thread/INFO]: Saving players
+[12:42:39] [Server thread/INFO]: Saving worlds
+[12:42:39] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[12:42:39] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[12:42:39] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[12:42:39] [Server thread/INFO]: Saving chunks for level 'world'/Underdark
+[12:42:39] [Server thread/INFO]: Saving chunks for level 'world'/the Ancient Treasure Room
+[12:42:39] [Server thread/INFO]: Saving chunks for level 'world'/Spirit World
+[12:42:39] [Server thread/INFO]: Saving chunks for level 'world'/Torment
+[12:42:39] [Server thread/INFO]: Saving chunks for level 'world'/Mirror
+[12:42:39] [Server thread/INFO]: Saving chunks for level 'world'/Land of Darkness
+[12:42:39] [Server thread/INFO]: Saving chunks for level 'world'/Bedrock
+[12:42:39] [Server thread/INFO]: Saving chunks for level 'world'/The Outer Lands
+[12:42:39] [Server thread/INFO]: Saving chunks for level 'world'/The Last Millenium
+[12:42:39] [Server thread/INFO]: Saving chunks for level 'world'/Twilight Forest
+[12:42:39] [Server thread/INFO]: Saving chunks for level 'world'/SpectreWorld
